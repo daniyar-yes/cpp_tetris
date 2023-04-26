@@ -1,5 +1,4 @@
-# cpp_intro
-
+# Tetris in C++
 This is my attempt to replicate the Tetris game in C++ and SFML library, without any game engines.
 
 Video Demo is available [here](https://youtube.com/shorts/QR8kQUfsetk)
